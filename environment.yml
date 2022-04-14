@@ -1,4 +1,4 @@
-name: arise-silverlinings-dev
+name: cloud-for-climate-dev
 channels:
   - conda-forge
   - nodefaults
