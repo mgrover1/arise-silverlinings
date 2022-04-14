@@ -1,0 +1,6 @@
+format: jb-book
+root: intro
+parts:
+- caption: Catalog Generation
+  chapters:
+    - file: generate-kerchunk-catalog
