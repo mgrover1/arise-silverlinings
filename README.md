@@ -1,2 +1,2 @@
-# arise-silverlinings
-Data catalogs and examples generated from the ARISE Project
+# Cloud for Climate
+Data catalogs and examples generated from climate simulations on the cloud!
