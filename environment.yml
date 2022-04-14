@@ -1,0 +1,19 @@
+name: arise-silverlinings-dev
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python>=3.8
+  - xarray
+  - kerchunk
+  - fsspec
+  - netcdf4
+  - jupyterlab
+  - pip
+  - h5py
+  - zarr
+  - bokeh
+  - matplotlib
+  - pip:
+    - s3fs
+    - nc-time-axis
