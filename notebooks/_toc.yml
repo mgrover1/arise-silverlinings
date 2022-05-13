@@ -4,3 +4,4 @@ parts:
 - caption: Catalog Generation
   chapters:
     - file: generate-kerchunk-catalog
+    - file: use-the-catalog

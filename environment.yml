@@ -2,6 +2,7 @@ name: cloud-for-climate-dev
 channels:
   - conda-forge
   - nodefaults
+  - pyviz
 dependencies:
   - python>=3.8
   - xarray
@@ -14,6 +15,8 @@ dependencies:
   - zarr
   - bokeh
   - matplotlib
+  - intake-xarray
+  - hvplot
   - pip:
     - s3fs
     - nc-time-axis

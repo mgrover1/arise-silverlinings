@@ -1,0 +1,11 @@
+sources:
+  cesm-test-dataset:
+    driver: intake_xarray.xzarr.ZarrSource
+    description: 'CESM Test Dataset'
+    args:
+      urlpath: 'reference://'
+      storage_options:
+        fo: 'merged-jsons/merged-data.json'
+        remote_protocol: s3
+        remote_options:
+          token: anon
